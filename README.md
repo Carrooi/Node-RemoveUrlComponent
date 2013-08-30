@@ -19,11 +19,11 @@ False is returned if history API is not supported.
 
 ## Example
 
-http://my.super-page.com/?arg1=aaaaa&page=2&arg2=bbbbb
+`http://my.super-page.com/?arg1=aaaaa&page=2&arg2=bbbbb`
 
 will become:
 
-http://my.super-page.com/?arg1=aaaaa&arg2=bbbbb
+`http://my.super-page.com/?arg1=aaaaa&arg2=bbbbb`
 
 ## Timeout
 
