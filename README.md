@@ -5,6 +5,12 @@ Uses history API.
 
 This will also work if you have got hash in your url.
 
+## Abandoned
+
+Unfortunately I don't have any more time to maintain this repository :-(
+
+![sad cat](https://raw.githubusercontent.com/sakren/sakren.github.io/master/images/sad-kitten.jpg)
+
 ## Usage
 
 ```
@@ -34,6 +40,10 @@ remove(['arg1', 'arg2'], 3000);
 ```
 
 ## Changelog list
+
+* 1.0.1
+	+ Move under Carrooi organization
+	+ Abandon package
 
 * 1.0.0
 	+ Initial version

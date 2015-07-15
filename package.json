@@ -1,10 +1,10 @@
 {
 	"name": "remove-url-component",
-	"description": "Remove some url parameter from url in browser",
-	"version": "1.0.0",
+	"description": "[ABANDONED] Remove some url parameter from url in browser",
+	"version": "1.0.1",
 	"author": {
 		"name": "David Kudera",
-		"email": "sakren@gmail.com"
+		"email": "kudera.d@gmail.com"
 	},
 	"keywords": [
 		"url",
@@ -16,7 +16,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:sakren/node-remove-url-component.git"
+		"url": "git@github.com:Carrooi/Node-RemoveUrlComponent.git"
 	},
 	"license": "MIT",
 	"engines": {
@@ -24,3 +24,4 @@
 	},
 	"main": "./lib/Url.js"
 }
+
